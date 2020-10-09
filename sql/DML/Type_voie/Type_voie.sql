@@ -1,0 +1,1 @@
+INSERT INTO `Type_voie` (`idType_voie`, `Type_voie`) VALUES ( '1', 'rue'),( '2', 'avenue'),( '3', 'boulevard'),( '4', 'voie'),( '5', 'impasse'),( '6', 'place'),( '7', 'mail'),( '8', 'marché'),( '9', 'lieu-dit'),('10', 'hameau');

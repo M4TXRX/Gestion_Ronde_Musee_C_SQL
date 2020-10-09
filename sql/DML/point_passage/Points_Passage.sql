@@ -1,0 +1,15 @@
+INSERT INTO `RONDIER`.`Point_Passage` (`idPoint_Passage`, `Ident_Tag`, `Nom`, `Cordo_X`, `Cordo_Y`, `Typ`) VALUES (1, '00000000', 'La Joconde', '1', '1', 'Tableau');
+INSERT INTO `RONDIER`.`Point_Passage` (`idPoint_Passage`, `Ident_Tag`, `Nom`, `Cordo_X`, `Cordo_Y`, `Typ`) VALUES (2, '00000001', 'La Venus de Milo', '2', '2', 'Tableau');
+INSERT INTO `RONDIER`.`Point_Passage` (`idPoint_Passage`, `Ident_Tag`, `Nom`, `Cordo_X`, `Cordo_Y`, `Typ`) VALUES (3, '00000002', 'La Victoire de Samothrace', '3', '3', 'Tableau');
+INSERT INTO `RONDIER`.`Point_Passage` (`idPoint_Passage`, `Ident_Tag`, `Nom`, `Cordo_X`, `Cordo_Y`, `Typ`) VALUES (4, '00000003', 'La Liberté guidant le peuple', '4', '4', 'Tableau');
+INSERT INTO `RONDIER`.`Point_Passage` (`idPoint_Passage`, `Ident_Tag`, `Nom`, `Cordo_X`, `Cordo_Y`, `Typ`) VALUES (5, '00000004', 'Le radeau de la Méduse', '5', '5', 'Tableau');
+INSERT INTO `RONDIER`.`Point_Passage` (`idPoint_Passage`, `Ident_Tag`, `Nom`, `Cordo_X`, `Cordo_Y`, `Typ`) VALUES (6, '00000005', 'La Mort de La Vierge', '1', '1', 'Tableau');
+INSERT INTO `RONDIER`.`Point_Passage` (`idPoint_Passage`, `Ident_Tag`, `Nom`, `Cordo_X`, `Cordo_Y`, `Typ`) VALUES (7, '00000006', 'La Vierge aux Rochers', '2', '2', 'Tableau');
+INSERT INTO `RONDIER`.`Point_Passage` (`idPoint_Passage`, `Ident_Tag`, `Nom`, `Cordo_X`, `Cordo_Y`, `Typ`) VALUES (8, '00000007', 'Les Noces de Cana', '3', '3', 'Tableau');
+INSERT INTO `RONDIER`.`Point_Passage` (`idPoint_Passage`, `Ident_Tag`, `Nom`, `Cordo_X`, `Cordo_Y`, `Typ`) VALUES (9, '00000008', 'Le Serment des Horaces', '4', '4', 'Tableau');
+INSERT INTO `RONDIER`.`Point_Passage` (`idPoint_Passage`, `Ident_Tag`, `Nom`, `Cordo_X`, `Cordo_Y`, `Typ`) VALUES (10, '00000009', 'Le Scribe accroupi', '5', '5', 'Tableau');
+INSERT INTO `RONDIER`.`Point_Passage` (`idPoint_Passage`, `Ident_Tag`, `Nom`, `Cordo_X`, `Cordo_Y`, `Typ`) VALUES (11, '0000000A', 'Le Sacre de Napoléon', '1', '1', 'Tableau');
+INSERT INTO `RONDIER`.`Point_Passage` (`idPoint_Passage`, `Ident_Tag`, `Nom`, `Cordo_X`, `Cordo_Y`, `Typ`) VALUES (12, '0000000B', 'La Grande Odalisque', '2', '2', 'Tableau');
+INSERT INTO `RONDIER`.`Point_Passage` (`idPoint_Passage`, `Ident_Tag`, `Nom`, `Cordo_X`, `Cordo_Y`, `Typ`) VALUES (13, '0000000C', 'Les Sabines', '3', '3', 'Tableau');
+INSERT INTO `RONDIER`.`Point_Passage` (`idPoint_Passage`, `Ident_Tag`, `Nom`, `Cordo_X`, `Cordo_Y`, `Typ`) VALUES (14, '0000000D', 'Astronome', '4', '4', 'Tableau');
+INSERT INTO `RONDIER`.`Point_Passage` (`idPoint_Passage`, `Ident_Tag`, `Nom`, `Cordo_X`, `Cordo_Y`, `Typ`) VALUES (15, '0000000E', 'La Belle Jardinière', '5', '5', 'Tableau');

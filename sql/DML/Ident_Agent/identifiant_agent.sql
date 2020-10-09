@@ -1,0 +1,4 @@
+INSERT INTO `Ident_Agent` (`idIdent_Agent`, `UID_RFID`, `Grade`, `Date_Creation`,`Agent_idAgent`) VALUES ('1', '20000001', 'CHEF','1995-05-03', '1');
+INSERT INTO `Ident_Agent` (`idIdent_Agent`, `UID_RFID`, `Grade`, `Date_Creation`,`Agent_idAgent`) VALUES ('2', '20000002', 'CHEF','1995-05-03', '2');
+INSERT INTO `Ident_Agent` (`idIdent_Agent`, `UID_RFID`, `Grade`, `Date_Creation`,`Agent_idAgent`) VALUES ('3', '10000001', 'AGENT','1995-05-03', '3');
+INSERT INTO `Ident_Agent` (`idIdent_Agent`, `UID_RFID`, `Grade`, `Date_Creation`,`Agent_idAgent`) VALUES ('4', '10000002', 'AGENT','1995-05-03', '4');

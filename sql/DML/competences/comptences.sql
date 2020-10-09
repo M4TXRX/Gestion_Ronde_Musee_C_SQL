@@ -1,0 +1,1 @@
+INSERT INTO `Competence` (`idCompetence`, `Nom`) VALUES ( '1', 'combat'),( '2', 'premiers soins'),( '3', 'psychologie'),( '4', 'animaux'),( '5', 'scène de crime'),( '6', 'justice'),( '7', 'boisson'),( '8', 'arts');
