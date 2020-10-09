@@ -1,5 +1,5 @@
 *******************************************************************************************************
-			      Projet réalisé dans le cadre de mes études
+			     Projet réalisé dans le cadre de mes études
 *******************************************************************************************************
 Ce projet permet la gestions des rondes de gardiens dans les musées avec sauvegarde des points de passage dans une DB MySQL.
 Veuillez lire le rapport "Rapport_projet.pdf" pour plus de details et comprendre le projet dans son ensemble.
