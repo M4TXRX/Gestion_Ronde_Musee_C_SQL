@@ -14,6 +14,8 @@ C'est le programme UdpServer.c qui se connecte à la base de données avec les i
 	
 ## Setup
 
+Allez dans le répertoire "code_c" :
+
 * Pour compiler le fichier UdpClient.c :
 		```
 		$ gcc -o client UdpClient.c
