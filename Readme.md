@@ -29,7 +29,7 @@ Allez dans le répertoire "code_c" :
 		
 		!! Pour lancer toutes les requêtes du client rapidement restez appuyer sur la touche ENTER
 
-* Pour compiler le fichier UdpServer.c
+* Pour compiler le fichier UdpServer.c :
 		```
 		$ gcc -o server UdpServer.c `mysql_config --cflags --libs`
 		```
