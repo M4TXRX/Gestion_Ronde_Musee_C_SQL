@@ -22,7 +22,8 @@ C'est le programme UdpServer.c qui se connecte à la base de données avec les i
 		```
 		$ ./client 127.0.0.1 8881 events.txt
 		```
-		!! Avec le fichier events.txt dans le dossier ou se trouve le programme
+		!! Avec le fichier events.txt (contenant les pointages du gardien qui fait sa ronde) dans le dossier ou se trouve le programme
+		
 		!! Pour lancer toutes les requêtes du client rapidement restez appuyer sur la touche ENTER
 
 * Pour compiler le fichier UdpServer.c
