@@ -1,6 +1,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Setup](#setup)
+* [Other documents](#Other documents)
 
 ## General info 
 Ce projet permet la gestions des rondes de gardiens dans les musées avec sauvegarde des points de passage dans une DB MySQL.  
