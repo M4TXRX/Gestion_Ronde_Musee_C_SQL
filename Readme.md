@@ -20,7 +20,7 @@ Allez dans le répertoire "code_c" :
 		```
 		$ gcc -o client UdpClient.c
 		```
-* Le compilateur creera un fichier executable client
+* Le compilateur créera un fichier executable client.
 	- Pour lancer le programme tapez :
 		```
 		$ ./client 127.0.0.1 8881 events.txt
@@ -33,7 +33,7 @@ Allez dans le répertoire "code_c" :
 		```
 		$ gcc -o server UdpServer.c `mysql_config --cflags --libs`
 		```
-* Le compilateur creera un fichier executable server
+* Le compilateur créera un fichier executable server.
 	- Pour lancer le programme tapez :
 		```
 		$ ./server 8881
