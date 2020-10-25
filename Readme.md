@@ -1,7 +1,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Setup](#setup)
-* [Tree structure](#tree structure)
+* [Tree structure](#tree-structure)
 
 ## General info 
 Ce projet permet la gestions des rondes de gardiens dans les musées avec sauvegarde des points de passage dans une DB MySQL.  
@@ -9,7 +9,7 @@ Veuillez lire le rapport "Rapport_projet.pdf" pour plus de details et comprendre
 
 Pour pouvoir éxecuter ce programme vous devez avoir installer en local __WAMP__ server avec __PHPmyAdmin__ qui doit être bien fonctionnel.
   
-Référez vous au dossier pdf __"sql/Script_SQL_Ordre.pdf"__ pour pouvoir installer les éléments nécessaires dans la base de donnée.
+Référez vous au dossier pdf __"sql/Script_SQL_Ordre.pdf"__ dans le dossier SQL, pour pouvoir installer les éléments nécessaires dans la base de donnée.
 C'est le programme UdpServer.c qui se connecte à la base de données avec les informations de connexions de PHPmyAdmin par défaut __"login : root et pass : (vide)".__
 	
 ## Setup
@@ -55,6 +55,7 @@ Dans le dossier racine :
 		Fichier MySQL- Workbench Pour la creation de notre base
 	--> RONDIER.png
 		Image de la base de donnee avec chaque table numerote
+		
 Dans le dossier SQL :
 
 	|
@@ -64,7 +65,6 @@ Dans le dossier SQL :
 		 Fichier a importer la base, creant les tables et index ect
 	--> DML :
 		- sous dossier avec chaque script SQL de manipulation de base 
-
 	--> Script_SQL_Ordre.pdf
 		fichier pdf instruction de lancement des scripts
 
