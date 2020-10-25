@@ -6,10 +6,10 @@
 Ce projet permet la gestions des rondes de gardiens dans les musées avec sauvegarde des points de passage dans une DB MySQL.  
 Veuillez lire le rapport "Rapport_projet.pdf" pour plus de details et comprendre le projet dans son ensemble.
 
-Pour pouvoir éxecuter ce programme vous devez avoir installer en local WAMP server avec PHPmyAdmin qui doit être bien fonctionnel.
+Pour pouvoir éxecuter ce programme vous devez avoir installer en local __WAMP__ server avec __PHPmyAdmin__ qui doit être bien fonctionnel.
   
-Référez vous au dossier pdf "sql/Script_SQL_Ordre.pdf" pour pouvoir installer les éléments nécessaires dans la base de donnée.
-C'est le programme UdpServer.c qui se connecte à la base de données avec les informations de connexions de PHPmyAdmin par défaut "login : root et pass : (vide)".
+Référez vous au dossier pdf __"sql/Script_SQL_Ordre.pdf"__ pour pouvoir installer les éléments nécessaires dans la base de donnée.
+C'est le programme UdpServer.c qui se connecte à la base de données avec les informations de connexions de PHPmyAdmin par défaut __"login : root et pass : (vide)".__
 	
 ## Setup
 
